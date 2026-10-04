@@ -12,4 +12,4 @@ dependencies = [
 ]
 
 [tool.vercel]
-entrypoint = "amz.main:app"
+entrypoint = "index.py"
